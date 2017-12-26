@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">艾一</string>
+    <string name="httpclient">HttpClient方式</string>
+</resources>

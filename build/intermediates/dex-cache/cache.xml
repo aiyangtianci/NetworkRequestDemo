@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/djmsh/.android/build-cache/5cd1243326e3e47bb1e44b3f3121cd1016d28d9a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="/Users/djmsh/StudioProjects/AllHttp_NetworkRequestDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2a163067dc688be6a7ac53749c036062d972bd24/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/djmsh/.android/build-cache/6570ff976dd655cad6af0770de8ccf3eabd31bb8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="/Users/djmsh/StudioProjects/AllHttp_NetworkRequestDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ad42f759fcfcae05b1fb0d1c57f502ff3293cd02/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/djmsh/.android/build-cache/15294d002f635b7cfdece64bdffb8851db15e77c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/djmsh/StudioProjects/AllHttp_NetworkRequestDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cee4b95360524a1ca4e6cae840eb7fb2985c244d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/djmsh/.android/build-cache/4bb738094c8d02ffadb02f24832be77f20c81ac6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="/Users/djmsh/StudioProjects/AllHttp_NetworkRequestDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a006586482d1c00200e504b5f2acddd3040edc0c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/djmsh/StudioProjects/AllHttp_NetworkRequestDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9d4b08822f3a3792fca674d4ac499e218842a742">
+        <dex dex="/Users/djmsh/StudioProjects/AllHttp_NetworkRequestDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3a665be306b3124220c66a06130588809e5db352/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/djmsh/.android/build-cache/05c85e00409c14274d1fc372f9b200cf9a79b22b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="/Users/djmsh/StudioProjects/AllHttp_NetworkRequestDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0b9a51e9405877ff43a2a83642d24ad1aa596475/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/djmsh/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.6/2586312cd2b8a511e4c6236736f5a039fc0f2273/rxjava-1.1.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="/Users/djmsh/StudioProjects/AllHttp_NetworkRequestDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-1.1.6_03f47ceeff679b189a98616e75cb14c47275c106/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/djmsh/.android/build-cache/13fb530083b37ded3644ca5e0e402b62544c7d86/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/Users/djmsh/StudioProjects/AllHttp_NetworkRequestDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c7950d80e4df358947b257c5bb08cb591e85492a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/djmsh/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.1/19047bdb6a4fc00a44124f64ca98e88fc204e7e3/okhttp-3.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="19047bdb6a4fc00a44124f64ca98e88fc204e7e3">
+        <dex dex="/Users/djmsh/StudioProjects/AllHttp_NetworkRequestDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.3.1_cb21c241d52fa30597879e8d2dc688743bc3e0a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/djmsh/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/djmsh/StudioProjects/AllHttp_NetworkRequestDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.1.0_08b536a27d70dbb0f7d81cc3018e368253e73dcf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/djmsh/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.19/a8f23f65fc1e522ee4a1a697ee569901a46741fa/library-1.0.19.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="/Users/djmsh/StudioProjects/AllHttp_NetworkRequestDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-1.0.19_d32524f2a0cc94f06eb4b177fc6c2b1091fc2512/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/djmsh/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/djmsh/StudioProjects/AllHttp_NetworkRequestDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.1.0_6e75f1c8deeace9e27ab59d0caf54e8fdcaeee7e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/djmsh/.android/build-cache/c0ed7c9587377e21090b34cd73e2829a859093a4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="/Users/djmsh/StudioProjects/AllHttp_NetworkRequestDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6b0131c7c9fa38207f67941d9a9a0e15e0d339a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/djmsh/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/djmsh/StudioProjects/AllHttp_NetworkRequestDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.8.0_ae5dde4da65fc8da98806387302f91beaddc0bcf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/djmsh/.android/build-cache/7541e598e718ae6196261e5a62e153d7e7fb9c98/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="/Users/djmsh/StudioProjects/AllHttp_NetworkRequestDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2cbdfa77e7e855637a7068f0a6c1904471978d38/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/djmsh/StudioProjects/AllHttp_NetworkRequestDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/djmsh/StudioProjects/AllHttp_NetworkRequestDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_16091facad82a064c3c8da3b836ce08bd6ef4baa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/djmsh/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.0/support-annotations-25.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="/Users/djmsh/StudioProjects/AllHttp_NetworkRequestDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.0_4226b730ed532c6b4441ced61a652bc5c1e28055/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/djmsh/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/djmsh/StudioProjects/AllHttp_NetworkRequestDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_283c9545fec47d4ef5da7cac9865d0d588221a46/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/djmsh/.android/build-cache/9b8b87822b24dd7a8c34c2210e9728b6583d49a3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="/Users/djmsh/StudioProjects/AllHttp_NetworkRequestDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7b3d563cb6de21b590f8cc151525b284a970b458/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/djmsh/.android/build-cache/bc32210ff65c850ddb7ec2a1781eba067210202f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="/Users/djmsh/StudioProjects/AllHttp_NetworkRequestDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8387a7ae6b4666420d8e925338d62e6b4358b0dd/classes.dex" />
+    </item>
+
+</items>

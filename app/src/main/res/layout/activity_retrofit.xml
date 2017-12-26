@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button
+            android:id="@+id/retrofit_get"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Get无参请求"/>
+
+        <Button
+            android:id="@+id/retrofit_get2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Get带参请求"/>
+
+        <Button
+            android:id="@+id/retrofit_post3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Post表单提交"/>
+    </LinearLayout>
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="20dp">
+
+        <TextView
+            android:id="@+id/response_tv"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="13sp"
+            android:textColor="#666666"/>
+    </ScrollView>
+
+</LinearLayout>

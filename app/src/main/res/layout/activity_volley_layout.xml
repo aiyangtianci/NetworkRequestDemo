@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button
+            android:id="@+id/string_txt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="StringRequest请求"/>
+        <Button
+            android:id="@+id/json_txt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="JsonRequest请求"/>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button
+            android:id="@+id/request_img"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ImageRequest请求图片"/>
+        <Button
+            android:id="@+id/loader_img"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ImageLoader请求图片"/>
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/network_img"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Network请求图片"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.1dp"
+        android:background="#666666"
+        android:layout_margin="20dp"/>
+    <ImageView
+        android:id="@+id/iv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone"
+        />
+    <com.android.volley.toolbox.NetworkImageView
+        android:id="@+id/network_image_view"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_gravity="center_horizontal"
+        android:visibility="gone"
+        />
+    <TextView
+        android:id="@+id/txt"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone"
+        android:textSize="13sp"
+        android:ellipsize="end"/>
+</LinearLayout>
